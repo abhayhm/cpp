@@ -13,7 +13,7 @@
 
 /* There should be only one global main function.
    Execution starts from main always.
-   Return integer type value.
+   Returns integer type value.
    0 is returned on successful completion.
    non 0 value represents failure. */
 int main(){
